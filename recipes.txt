@@ -8,6 +8,8 @@ welcome to telusuko kitchen
 kheer
 pasta
 chicken fry 
+Beans
+pizza
 
 
 
@@ -15,4 +17,7 @@ chicken fry
 thank you :)
 
 
+done my changes 
+
 final copy
+
